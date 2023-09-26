@@ -3,4 +3,6 @@ sep="...."-->this is used between to parameters in the functions that separates 
 
 """
 
-print("Hello","This is for sep key word",sep="!")
+print("Hello","This is for sep key word",sep="! ")
+
+print("Hey","I am Prasanna",sep="! ",end="😉")
